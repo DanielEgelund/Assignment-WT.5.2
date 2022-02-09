@@ -1,0 +1,36 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    float: right;
+}
+
+td, th {
+    text-align: left;
+    padding: 8px;
+    border-bottom: 1px solid #b0b0b0;
+}
+
+th {
+    padding-left: 16px;
+}
+
+
+tr:nth-child(odd) {
+    background-color: #ededed;
+  }
+
+
+#topRow {
+    border-bottom: 1.1px solid black;
+    background-color: #ffffff;
+}
+
+caption{
+    padding-left: 50px;
+    display: inline;
+}
+
+#topTop {
+    padding-left: 50px;
+}
